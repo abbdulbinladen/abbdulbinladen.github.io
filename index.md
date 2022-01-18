@@ -2,13 +2,13 @@
 layout: home
 ---
 
-# repositories
+## repositories
 
 | projects | links |
 |---|---|
 | Defold top-down template | [link](https://github.com/abbdulbinladen/topdown) [preview](https://abbdulbinladen.github.io/topdown/) |
 
-# vk games
+## vk games
 
 | projects | links |
 |---|---|
