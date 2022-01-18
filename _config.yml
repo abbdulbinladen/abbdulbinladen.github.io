@@ -3,8 +3,8 @@ author: Andrew Orlov # name of site's author
 email: noiselassie@outlook.com # email of site's author
 url: https://abbdulbinladen.github.io/ # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
-# description: > # description of the site (multiple lines allowed)
-#   posts and projects, например
+description: > # description of the site (multiple lines allowed)
+  404 posts and projects, например
 
 permalink: /:slug.html
 
